@@ -4,3 +4,9 @@ ju., 27 de mar. de 2025 16:23:18:
  tests:  9|3
 total_score: 35/70
 25021aa
+ju., 27 de mar. de 2025 16:28:38: 
+ list.c | 6 ++++++
+ 1 file changed, 6 insertions(+)
+ tests:  10|2
+total_score: 45/70
+29e08c2
